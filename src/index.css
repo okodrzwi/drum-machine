@@ -30,15 +30,13 @@ code {
   border-width: 3px;
   border-color: rgb(185, 22, 77);
   color: burlywood;
-  margin: 2px;
+  background-color: gray;
   text-align: center;
   vertical-align: center;
-  padding: 9%;
   font-size: 32px;
   margin: 2px;
   width: 30%;
   height: 30%;
-  background-color: gray;
 }
 #display {
   text-align: center;

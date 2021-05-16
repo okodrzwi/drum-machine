@@ -36,13 +36,3 @@
     transform: rotate(360deg);
   }
 }
-
-.drum-pad {
-  width: 80px;
-  height: 80px;
-  border: solid;
-  border-width: 3px;
-  border-color: crimson;
-  color: burlywood;
-  margin-bottom: 2px;
-}
